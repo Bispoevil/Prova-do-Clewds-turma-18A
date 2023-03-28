@@ -1,0 +1,22 @@
+3.O seguinte trecho escreve na tela do computador e pula uma linha?
+escreva("Bom dia amiguinho")
+
+Resposta: Sim
+
+
+4.O seguinte trecho escreve na tela do computador?
+leia(nome)
+
+Resposta: Não
+
+5.Qual a saída da função abaixo?
+funcao inteiro pontuacao( )
+{
+inteiro pontos = 10 
+escreva("Você fez ", pontos, " pontos!\n")
+
+}
+
+
+Resposta: Você fez 10 pontos! 
+
